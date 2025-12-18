@@ -1,0 +1,7 @@
+# 推荐1：极简清新主题
+remote_theme: pages-themes/cayman@v0.2.0
+title: 我的个人主页
+description: 记录生活、学习和成长
+
+# 推荐2：深色技术风主题（可选）
+# remote_theme: pages-themes/hacker@v0.2.0
