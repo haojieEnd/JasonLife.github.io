@@ -6,8 +6,7 @@
 ---
 
 ## 年度封面
-（这里放一张你的年度代表图，比如工作桌面/旅行照片）
-<img src="img/Pic_Hero_BG_1.png" width="700" style="border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/haojieEnd/JasonLife.github.io/main/Pic_Hero_BG_1.png" width="700" style="border-radius: 8px;"/>
 
 ---
 
